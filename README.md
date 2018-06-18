@@ -1,5 +1,5 @@
-# data_structures_and_algorithms
+# Data Structures and Algorithms
 Personal practice and implementation of core CS concepts
 
-## License
-Check [LICENSE](LICENSE) for the license.
+## MIT License
+Check [details](LICENSE) here.

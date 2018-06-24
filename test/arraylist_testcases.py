@@ -1,5 +1,5 @@
 import unittest
-import arraylist as a
+from arraylist import arraylist as a
 
 
 class MyTest(unittest.TestCase):
